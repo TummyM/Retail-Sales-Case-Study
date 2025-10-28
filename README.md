@@ -2,30 +2,30 @@
 Retail Sales Analysis- A comprehensive, data-driven analysis for retail product's sales performance , a marketing ability, and daily gross profit using data in order to spot important trends and offer insight(s) for strategic decision making.
 
 ## 📊Summary of Findings
-## Monthly Revenue Growth
+##📈 Monthly Revenue Growth
 Revenue grew from January to June
 
 Monthly contribution to total revenue:
 
-Jan:11.69%
+Jan:12%
 
-Feb:10.90%
+Feb:11%
 
-March:14.14%
+March:14%
 
-April:17.02%
+April:17%
 
-May:22.43%
+May:22%
 
-June:23.82%
+June:24%
 
 ## 📍Location Revenue Distribution
 3 Store location contributed nearly equally to total revenue.
 ## 🕰️ Time of Day Sales Pattern
-i. Morning
-ii. Afternoon
-iii. Evening
-iv.
+1. Morning
+2. Afternoon
+3. Evening
+4.Night
 
 ## Tools 
 Miro
