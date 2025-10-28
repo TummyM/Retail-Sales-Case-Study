@@ -4,12 +4,19 @@ Retail Sales Analysis- A comprehensive, data-driven analysis for retail product'
 ## 📊Summary of Findings
 ## Monthly Revenue Growth
 Revenue grew from January to June
+
 Monthly contribution to total revenue:
+
 Jan:11.69%
+
 Feb:10.90%
+
 March:14.14%
+
 April:17.02%
+
 May:22.43%
+
 June:23.82%
 
 ## 📍Location Revenue Distribution
